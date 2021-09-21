@@ -10,22 +10,23 @@ We want to hear from you. Your personal statement of two pages (double-spaced) i
 
 # What I'm providing:
 
-It started with a sticker, an innocent little penguin sticker on a laptop. Sitting in a coffee shop in downtown Missoula, I noticed the sticker on another patrons laptop. I wasn't fully aware of what that penguin truly represented, but I knew enough at the time that a new version of a popular Linux package just got released so I used it as an ice breaker to start a conversation. He was aware of the new version but hadn't upgraded himself. After the short conversation I found out he was a lawyer who was running his own lawfirm completely on open source software, a term as the time I didn't really understand. We parted ways but agreed to meet the following week for lunch to discuss the opportunity of working with him.
+A sticker, of a penguin, The first time I saw a tux sticker in the wild was at a downtown Missoula coffee shop. In a town where most laptops are covered with ski resort and national park stickers it caught my eye. I knew a little about Linux at the time, enough to know a new version was just released and I used that as an ice breaker to start a conversation. He was aware of the new version but hadn't upgraded himself. After the short conversation I found out he was a lawyer who was running his own law firm completely on Linux. We parted ways but agreed to meet the following week for lunch.
 
-I had been working on computers for a long time, but I had always accepted the only way to get software was to go to a store and purchase a boxed copy. What I learned during the lunch meeting, not only was that not the only way to aquire software, the software purchased in stores was heavily restricted and locked down compared to this new category, called open source software. Open source doesn't mean free, it means it's not only allowed it's promoted to take the software to extend and modify the source code.
+I had installed Linux on a few computer before, but never stopped to think who developed it, or why I could could download it for free from the internet. In the time between the coffee shop and the lunch meeting, I dove into Open Source to learn as much as I could about it. I discovered it was much more then just free software. opened my eyes to a revolution that was quietly starting in dark offices and university basements but quickly moving to the light. 
 
-I had seen the light and new a revolution was on the horizon. This ethos really attracted me. Being able to share and collaborate with individuals all over the world, in the common language of code, to work towards a greater good. By using open source software, I was able to build websites for local non-profits, at very affordable rates that may not be possible if they had been required to purchase commercial licenses for all the different tools used to develope a website. With this permissive licensing, I could even take pieces others had built for other projects and reused for my projects.
+During the meal he explained to me, how he is able to ... What I learned during the lunch meeting, not only was that not the only way to aquire software, the software purchased in stores was heavily restricted and locked down compared to this new style of software, called open source software. Open source doesn't mean free, companies can charge for the software or charge for support, but the users are allow to do more with it and are not tied to heavily restrictive commercial licenses.
 
-By sharing the source code for the projects I've developed, not only have I been able to pass only the knowledge I've learned in developing the code, other people have been able to take my code and use it in ways that I would never have imagined. 
+it means it's not only allowed it's promoted to take the software to extend and modify the source code.
 
-While attending multiple conferences in Las Vegas, I was able to meet the individuals who benefited from the sharing of my code, but also meet and thank those who I used as foundations for my own projects. One package I wrote for doing manual inspection of power line transmission towers, was being investigated as a potential foundation to do the daily inspections of amusement park equipment. 
+Going beyond just walking the walk, I've talked the talk with my own personal projects. All of my own personal projects I've released the source code, by sharing the source code for the projects I've developed, not only have I been able to pass only the knowledge I've learned in developing the code, other people have been able to take my code and use it in ways that I would never have imagined.
 
-There is nothing wrong with making money, and being successful, but if that success comes at the cost of people not being able to maintain or use items they bought because of restrictive licensing or tightly controlled supply chains, it's time to change and work together.
+Open source movement goes beyond the source code and into other areas, allowing companies to share manuals and guides to help repair physical goods. 
 
-I want to help companies, as they grow in a sustainable way. I want to help companies protect their IP, earn a profit and make the world a better place. Open source has proven time and again this is possible, and tight copyright and restrictive licensing is not the only way.
+I want to help companies, as they grow in a sustainable way. I've found great joy in helping start ups use open source tools to build their business. I've helped with the formation of many companies, all which use open source software to deliver services to their customers. I'm able to help these companies navigate the startup waters and file formation documents with the state, market their services to their potential clients but quickly I get to a point where my knowledge isn't there and I need to refer them to a qualified business lawyer for legal questions. 
+
+I want to help companies protect their IP, earn a profit and make the world a better place. Open source has proven time and again this is possible, and tight copyright and restrictive licensing is not the only way to be successful.
 
 
-Companies have been very successful offering their open source software for free, with a business model of paid support programs.
 
 
 
